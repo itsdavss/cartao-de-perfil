@@ -1,6 +1,6 @@
 # Cartão de perfil
 
-Essa foi uma exercício realizado no módulo "Exercícios CSS Avançado - Flexbox" do curso Dev Quest - Dev em Dobro 
+Esse foi uma exercício realizado no módulo "Exercícios CSS Avançado - Flexbox" do curso Dev Quest - Dev em Dobro 
 
 #### Dificuldades e aprendizados
 
