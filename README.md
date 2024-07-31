@@ -10,5 +10,5 @@ A √∫nica dificuldade que eu tive foi em centralizar o card verticalmente pois n√
 #### Design Desktop
 ![Design do site](design/design-desktop.png)
 
-#### Design Desktop
+#### Design Mobile
 ![Design do site](design/design-mobile.png)
